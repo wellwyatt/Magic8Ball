@@ -29,14 +29,26 @@ public class Main {
             System.out.println("Don't Count On It.");
         }
         else if (userNumber<=40&&userNumber>=31){
-            System.out.println("Very Doubtful");
+            System.out.println("Very Doubtful.");
         }
-        else if 
-
-
-
-
-
+        else if (userNumber<=50&&userNumber>=41){
+            System.out.println("Most Likely.");
+        }
+        else if (userNumber<=60&&userNumber>=51){
+            System.out.println("As I See It, Yes.");
+        }
+        else if (userNumber<=70&&userNumber>=61){
+            System.out.println("My Sources Say No.");
+        }
+        else if (userNumber<=80&&userNumber>=71){
+            System.out.println("My Reply Is No.");
+        }
+        else if (userNumber<=90&&userNumber>=80){
+            System.out.println("Signs Point To Yes.");
+        }
+        else if (userNumber<=100&&userNumber>=91){
+            System.out.println("My Sources Say No");
+        }
 
 
 
